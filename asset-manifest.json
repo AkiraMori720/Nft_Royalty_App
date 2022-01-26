@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nft_Royalty_App/static/css/main.f2b6efc3.css",
+    "main.js": "/Nft_Royalty_App/static/js/main.b02734df.js",
+    "static/js/787.4609bdbc.chunk.js": "/Nft_Royalty_App/static/js/787.4609bdbc.chunk.js",
+    "index.html": "/Nft_Royalty_App/index.html",
+    "main.f2b6efc3.css.map": "/Nft_Royalty_App/static/css/main.f2b6efc3.css.map",
+    "main.b02734df.js.map": "/Nft_Royalty_App/static/js/main.b02734df.js.map",
+    "787.4609bdbc.chunk.js.map": "/Nft_Royalty_App/static/js/787.4609bdbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b6efc3.css",
+    "static/js/main.b02734df.js"
+  ]
+}
