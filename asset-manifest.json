@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f795585.chunk.css",
-    "main.js": "/static/js/main.89d08e89.chunk.js",
-    "main.js.map": "/static/js/main.89d08e89.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.59dbcf4b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.59dbcf4b.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0c1475de.chunk.js": "/static/js/2.0c1475de.chunk.js",
-    "static/js/2.0c1475de.chunk.js.map": "/static/js/2.0c1475de.chunk.js.map",
-    "static/js/3.052fce45.chunk.js": "/static/js/3.052fce45.chunk.js",
-    "static/js/3.052fce45.chunk.js.map": "/static/js/3.052fce45.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.6f795585.chunk.css.map": "/static/css/main.6f795585.chunk.css.map",
-    "static/js/2.0c1475de.chunk.js.LICENSE.txt": "/static/js/2.0c1475de.chunk.js.LICENSE.txt"
+    "main.css": "/Nft_Royalty_App/static/css/main.6f795585.chunk.css",
+    "main.js": "/Nft_Royalty_App/static/js/main.89d08e89.chunk.js",
+    "main.js.map": "/Nft_Royalty_App/static/js/main.89d08e89.chunk.js.map",
+    "runtime-main.js": "/Nft_Royalty_App/static/js/runtime-main.2140b80e.js",
+    "runtime-main.js.map": "/Nft_Royalty_App/static/js/runtime-main.2140b80e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Nft_Royalty_App/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3f15100f.chunk.js": "/Nft_Royalty_App/static/js/2.3f15100f.chunk.js",
+    "static/js/2.3f15100f.chunk.js.map": "/Nft_Royalty_App/static/js/2.3f15100f.chunk.js.map",
+    "static/js/3.052fce45.chunk.js": "/Nft_Royalty_App/static/js/3.052fce45.chunk.js",
+    "static/js/3.052fce45.chunk.js.map": "/Nft_Royalty_App/static/js/3.052fce45.chunk.js.map",
+    "index.html": "/Nft_Royalty_App/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Nft_Royalty_App/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6f795585.chunk.css.map": "/Nft_Royalty_App/static/css/main.6f795585.chunk.css.map",
+    "static/js/2.3f15100f.chunk.js.LICENSE.txt": "/Nft_Royalty_App/static/js/2.3f15100f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59dbcf4b.js",
+    "static/js/runtime-main.2140b80e.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0c1475de.chunk.js",
+    "static/js/2.3f15100f.chunk.js",
     "static/css/main.6f795585.chunk.css",
     "static/js/main.89d08e89.chunk.js"
   ]
